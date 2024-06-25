@@ -6,6 +6,7 @@
 Correo: christopher300804@gmail.com </br>
 Telefono: +1(829) 869-9263 </br>
 Linkedin: https://www.linkedin.com/in/christopher-mercado-8a8582310/ <br>
+Portfolio: https://storied-druid-d87342.netlify.app
 </p>
 
 <h3 align="center">Tecnologias:</h3>
